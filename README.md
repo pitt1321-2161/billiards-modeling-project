@@ -1,4 +1,4 @@
-# billiards-modeling-project
+# Billiards-modeling-project
 
 # Modeling a Game of Billiards
 
